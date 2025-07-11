@@ -1,4 +1,3 @@
-
 <!-- =============================== -->
 <!--         Hi there 👋             -->
 <!-- =============================== -->
@@ -27,11 +26,11 @@ I’m on a mission to turn simple ideas into impactful web experiences.
 ---
 
 ## 🔧 Projects on the Horizon
-> *“Building the next big thing—stay tuned!”*  
+> *“Building the next big thing—stay tuned!”*
 
-- **HuisAlert**: Real-time home-listing alerts.  
-- **TryFit**: Tailored workout planner in the browser.  
-- **Portfolio.com**: A template to showcase creativity.
+- **TryFit**: 3D avatar try-on platform for virtual outfits across multiple vendors.  
+- **Portfolio.com**: A GitHub-style showcase for non-STEM creators to build and share portfolios.  
+- **HuisAlert**: Real-time home-listing alerts to notify you when properties match your criteria.
 
 *(Links coming soon…)*
 
