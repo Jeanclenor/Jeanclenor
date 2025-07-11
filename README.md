@@ -8,19 +8,20 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)  
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
 ---
 
 ## 🚀 About Me
-I build crisp, responsive interfaces using **HTML**, **CSS**, **JS**, and **React**.  
+I build crisp, responsive interfaces using **HTML**, **CSS**, **JS**, **React**, and **Node.js**.  
 I’m on a mission to turn simple ideas into impactful web experiences.
 
 ---
 
 ## 💼 Skills
 - **Markup & Styling:** HTML5 · CSS3  
-- **Programming:** JavaScript (ES6+) · React  
+- **Programming:** JavaScript (ES6+) · React · Node.js  
 - **Tools & Workflow:** Git · VS Code · Chrome DevTools  
 
 ---
@@ -38,7 +39,4 @@ I’m on a mission to turn simple ideas into impactful web experiences.
 
 ## 📫 Let’s Connect
 - ✉️ [JeanClenor2060@gmail.com](mailto:JeanClenor2060@gmail.com)  
-
-<!--
-**JeanClenor/JeanClenor** is a special repo because its README.md appears on your GitHub profile.
--->
+ 
