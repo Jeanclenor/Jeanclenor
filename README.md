@@ -38,5 +38,5 @@ I’m on a mission to turn simple ideas into impactful web experiences.
 ---
 
 ## 📫 Let’s Connect
-- ✉️ [JeanClenor2060@gmail.com](mailto:JeanClenor2060@gmail.com)  
+- ✉️ [JeanClenor2031@gmail.com](mailto:JeanClenor2031@gmail.com)  
  
