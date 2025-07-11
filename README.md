@@ -1,10 +1,13 @@
 <!-- =============================== -->
-<!--         Hi there 👋             -->
+<!--     Welcome to my corner 🚀     -->
 <!-- =============================== -->
 
 # Jean Clenor  
-### Front-End Developer & Aspiring Innovator
+> Crafting digital experiences, one line of code at a time.
 
+---
+
+## 💻 Tech Arsenal
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)  
@@ -14,29 +17,28 @@
 ---
 
 ## 🚀 About Me
-I build crisp, responsive interfaces using **HTML**, **CSS**, **JS**, **React**, and **Node.js**.  
-I’m on a mission to turn simple ideas into impactful web experiences.
-
----
-
-## 💼 Skills
-- **Markup & Styling:** HTML5 · CSS3  
-- **Programming:** JavaScript (ES6+) · React · Node.js  
-- **Tools & Workflow:** Git · VS Code · Chrome DevTools  
+I’m a Front-End Developer & Aspiring Innovator who transforms simple ideas into polished, responsive web experiences.  
+With a love for **clean code**, **intuitive UI**, and a dash of **3D magic**, I build tools that solve real problems.
 
 ---
 
 ## 🔧 Projects on the Horizon
-> *“Building the next big thing—stay tuned!”*
+> *“The future of the web should be interactive, inclusive, and imaginative.”*  
 
-- **TryFit**: 3D avatar try-on platform for virtual outfits across multiple vendors.  
-- **Portfolio.com**: A GitHub-style showcase for non-STEM creators to build and share portfolios.  
-- **HuisAlert**: Real-time home-listing alerts to notify you when properties match your criteria.
+- **TryFit** — Design your 3D avatar and virtually try on outfits from any store, anywhere.  
+- **Portfolio.com** — A GitHub-style showcase for non-STEM creators to build, share & shine.  
+- **HuisAlert** — Instant property alerts whenever a home matches your dream criteria.
 
-*(Links coming soon…)*
+*(Links & demos coming soon… stay tuned!)*
+
+---
+
+## 🌟 Fun Fact
+> “Code is like a puzzle—every function is a piece that makes the picture complete.”
 
 ---
 
 ## 📫 Let’s Connect
-- ✉️ [JeanClenor2031@gmail.com](mailto:JeanClenor2031@gmail.com)  
+✉️ [JeanClenor2060@gmail.com](mailto:JeanClenor2060@gmail.com)
+
  
